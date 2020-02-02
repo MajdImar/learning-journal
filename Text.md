@@ -37,6 +37,15 @@ Print Working Directory - ie. Where are we currently.
 List the contents of a directory.
 - cd
 Change Directories - ie. move to another directory.
+## Files
+path is a means to get to a particular location in the system and that location is a file.
+## Linux is Case Sensitive
+## Some things you can do:
+- Spaces in names
+- Quotes
+- Escape Characters
+- Hidden Files and Directories
+
 
 
 
