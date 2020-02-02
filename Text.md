@@ -21,9 +21,9 @@ text editor, a filemanager, a compiler,
 ## What is The Command Line?
 A command line, or terminal, is a text based interface to the system by  tayping commands.
 ## how we can Opening a Terminal?
-- **If you're on a Mac then you'll find the program Terminal under **Applications -> Utilities** **
-- 
-- 
+- If you're on a Mac then you'll find the program Terminal under **Applications -> Utilities** .
+- If on Linux then you will probably find it in **Applications -> System or Applications -> Utilities** .
+- If you are on Windows and intend to remotely log into another machine then you will need an SSH client
 
 ## What is The Shell ?
 
