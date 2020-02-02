@@ -28,6 +28,15 @@ A command line, or terminal, is a text based interface to the system by  tayping
 ## What is The Shell ?
  This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you. 
  > We can use command called **echo**
-  ##  Navigation!
+  ##   In Navigation we are going to:
+   able to get to, or reference the correct location in the system.
+   ## we can use this command 
+  - pwd
+Print Working Directory - ie. Where are we currently.
+- ls
+List the contents of a directory.
+- cd
+Change Directories - ie. move to another directory.
+
 
 
