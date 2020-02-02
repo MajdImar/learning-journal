@@ -15,6 +15,16 @@ allows you to **write and manage texts** especially the text that you write
 - manages text
 - manages files
 - # IDEs:(Integrated Development Environment)
-text editor, a file
-manager, a compiler, and a debugger all in one **software packag**
+text editor, a filemanager, a compiler,
+ a debugger all in one **software packag**
+
+## What is The Command Line?
+A command line, or terminal, is a text based interface to the system by  tayping commands.
+## how we can Opening a Terminal?
+- **If you're on a Mac then you'll find the program Terminal under **Applications -> Utilities** **
+- 
+- 
+
+## What is The Shell ?
+
 
