@@ -1,9 +1,9 @@
 ## This a summary about Github pages here is a simple intrtodaction about markddown with some examples:
 ### First Of All What is Markdown:
 Markdown is an easy way to use syntax for coding the pages on Github.
-# Now we are going to make atable  and here is an example with the code for it:
-Country | Capital
---------|--------
+# Now we are going to add a photo:
+![photo](https://www.extremetech.com/wp-content/uploads/2020/01/HERO-CEStopcars-_764B7403-1-640x354.jpg)
+
 
 >you use | for making clounms and - for making raws
 
