@@ -3,6 +3,7 @@
 Markdown is an easy way to use syntax for coding the pages on Github.
 # Now we are going to make atable  and here is an example with the code for it:
 Country | Capital
+--------|--------
 
 >you use | for making clounms and - for making raws
 
