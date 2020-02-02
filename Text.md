@@ -26,5 +26,8 @@ A command line, or terminal, is a text based interface to the system by  tayping
 - If you are on Windows and intend to remotely log into another machine then you will need an SSH client
 
 ## What is The Shell ?
+ This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you. 
+ > We can use command called **echo**
+  ##  Navigation!
 
 
