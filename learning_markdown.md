@@ -6,3 +6,7 @@ Country | Capital
 --------|--------
 Jordan | Amman
 >you use | for making clounms and - for making raws
+
+# Now we are going to add link :
+[Fact about cats](https://www.rd.com/wp-content/uploads/2019/11/cat-10-e1573844975155-768x519.jpg)
+>By put it between () and begre that put title between []
