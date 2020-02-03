@@ -18,4 +18,4 @@ for example
 - [ ] work 
 - [ ] study 
 - [ ] play 
-# my name is Majd I have graduated computer ENGINEER
+
