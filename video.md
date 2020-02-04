@@ -3,7 +3,8 @@
 - The 4 things in all computer combining 
 1. input
 2. storage
-3.processing and output
+3. processing 
+4. output
 - computers work in 0,1 by using wires and circuit.
 any numbers decimle or else converting to 0,1
 - cpmputers need circuits to conver the input to output.
