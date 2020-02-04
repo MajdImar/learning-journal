@@ -1,4 +1,4 @@
-# summary about how do 0computers works:
+# summary about how do computers works:
 
 - The 4 things in all computer combining 
 1. input
@@ -11,4 +11,4 @@ any numbers decimle or else converting to 0,1
 then to help converting the outputs.
 - computers contain of :
 1. hardware such as chips , ciricuts and speakers.
-2.software all computer programms and codes.
+2. software all computer programms and codes.
