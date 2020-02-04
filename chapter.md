@@ -10,4 +10,4 @@
 - # grouping and Similarity : tend to organize visual elementsinto groups. 
 Grouping related pieces of information together
 # Designing Navigation : only helps people find where they want to go, 
-but alsohelps them understand what your site is about and how it is organized.
+ # but alsohelps them understand what your site is about and how it is organized.
