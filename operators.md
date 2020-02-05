@@ -1,9 +1,9 @@
 # summary about opearators and loops :
 # operators :
 1. comprison opearators : It is comparing one value in the script to what you expect.
-- == , ===, != , !=== , > , < , >= ,=< .
+- == , ===, != , !=== , '>' , < , '>'= ,=< .
 2. logical operators . It allow to compare the results of more than one comperison operator.
-- && , > || , ! .
+- && , || , ! .
 # Loops :
 ** loops check a condition if it true block code run , then the condition will be check again if it still return true **
 # There are three common types of loops :
