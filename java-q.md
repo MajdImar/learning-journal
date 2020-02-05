@@ -16,3 +16,11 @@ all the instructions
 1. ASSIGNMENT OPERATORS 
 2. COMPARISON OPERATORS 
 3. ARITHMETI C OPERATORS 
+4. STRING OPERATOR 
+# FUNCTION :
+- Functions let you group a series of statements together to perform a specific task.
+* there are 3 important 3 in function :
+1. calling
+2. parameters. 
+3. return value. 
+- To create a function you need to give it a name then write the statement that you need  {} which is function delecration .
